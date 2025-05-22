@@ -45,3 +45,9 @@ compensation, background subtraction, and batch correction.
 <p align="center">
 <img width="500" alt="Screenshot 2025-05-22 at 12 50 46 PM" src="https://github.com/user-attachments/assets/c68abc82-104d-4067-a400-30b815846854" />
 <p>
+
+## GitHub statistics 📊
+
+[![Cami's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=camisowers&layout=compact&hide=html,CSS&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Cami's GitHub stats](https://github-readme-stats.vercel.app/api?username=camisowers&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
