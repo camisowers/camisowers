@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a data scientist currently specializing in developing open-source tools for computational biology.
+I'm a data scientist currently specializing in developing open-source tools for computational biology.
 
-Check out the repos I've worked on:
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,r,matlab,docker,git,github,githubactions,pytorch,vscode)](https://skillicons.dev)
+
+### Check out the repos I've worked on:
 * [SpaceCat](https://github.com/angelolab/SpaceCat): (Core Developer) A computational pipeline that automatically extracts a spatial catalog of
 100s of distinct features from single cell data to enable easy downstream quantification. SpaceCat
 features are normalized for comparison and simple integration with any statistical model.
