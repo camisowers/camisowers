@@ -36,14 +36,14 @@ compensation, background subtraction, and batch correction.
 
 ### Research 
 * Breast cancer
-  - *Temporal and spatial composition of the tumor microenvironment predicts response to immune checkpoint inhibition*. Greenwald NF, et al. [paper](https://www.biorxiv.org/content/10.1101/2025.01.26.634557v1)<p align="center"><img width="617" alt="Screenshot 2025-05-22 at 12 58 30 PM" src="https://github.com/user-attachments/assets/74bd6168-cc55-4db5-9a7d-869f83300033" /><p>
-  - *QUICHE reveals structural definitions of anti-tumor responses in triple negative breast cancer*. Ranek J, et al. [paper](https://www.biorxiv.org/content/10.1101/2025.01.06.631548v1)
+  - *Temporal and spatial composition of the tumor microenvironment predicts response to immune checkpoint inhibition* &nbsp; [📓 Paper](https://www.biorxiv.org/content/10.1101/2025.01.26.634557v1) &nbsp; &nbsp; [🧵 Twitter thread](https://x.com/NoahGreenwald/status/1884632646913011876) &nbsp; &nbsp; <p align="center"><img width="617" alt="Screenshot 2025-05-22 at 12 58 30 PM" src="https://github.com/user-attachments/assets/74bd6168-cc55-4db5-9a7d-869f83300033" /><p>
+  - *QUICHE reveals structural definitions of anti-tumor responses in triple negative breast cancer* &nbsp; [📓 Paper](https://www.biorxiv.org/content/10.1101/2025.01.06.631548v1) &nbsp; &nbsp; [🧵 Twitter thread](https://x.com/JoleneRanek/status/1877756612091527413)
 <p align="center">
 <img width="615" alt="Screenshot 2025-05-22 at 12 27 19 PM" src="https://github.com/user-attachments/assets/d1dadeec-4959-4235-a5a6-aa2216eb3dca" />
 <p>
 
 * Methods
-  - *Automated classification of cellular expression in multiplexed imaging data with Nimbus*. Rumberger L, et al. [paper](https://www.biorxiv.org/content/10.1101/2024.06.02.597062v1)
+  - *Automated classification of cellular expression in multiplexed imaging data with Nimbus* &nbsp; [📓 Paper](https://www.biorxiv.org/content/10.1101/2024.06.02.597062v1) &nbsp; &nbsp; [🧵 Twitter thread](https://x.com/NoahGreenwald/status/1797660337212408163)
 <p align="center">
 <img width="500" alt="Screenshot 2025-05-22 at 12 50 46 PM" src="https://github.com/user-attachments/assets/c68abc82-104d-4067-a400-30b815846854" />
 <p>
