@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a data scientist currently specializing in developing open-source tools for computational biology.
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,r,matlab,docker,git,github,githubactions,pytorch,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,r,matlab,docker,github,githubactions,pytorch,vscode)](https://skillicons.dev)
 
 ### Check out the repos I've worked on:
 * [SpaceCat](https://github.com/angelolab/SpaceCat): (Core Developer) A computational pipeline that automatically extracts a spatial catalog of
