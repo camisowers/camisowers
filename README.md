@@ -28,11 +28,11 @@ features are normalized for comparison and simple integration with any statistic
 <p>
 
 * [ark-analysis](https://github.com/angelolab/ark-analysis): (Maintainer) A package for performing spatial analysis on highly multiplexed
-imaging microscopy data. Provides researchers with a powerful suite of tools to analyze their
+imaging microscopy data. Provides researchers with a powerful suite of tools (via user-friendly jupyter notebooks) to analyze their
 millions of cells automatically and efficiently.
 * [toffy](https://github.com/angelolab/toffy) (Maintainer): A package for extracting and preprocessing image data generated from the
-commercial MIBIScope platform. Provides researchers with an easy way to perform channel
-compensation, background subtraction, and batch correction.
+commercial MIBIScope platform. Provides researchers with an easy interface to efficiently perform channel
+compensation, background subtraction, and batch correction without needing any prior coding knowledge.
 
 ### Research 
 * Breast cancer
