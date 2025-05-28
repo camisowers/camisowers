@@ -20,19 +20,18 @@ I'm a data scientist currently specializing in developing open-source tools for 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,r,matlab,docker,github,githubactions,pytorch,vscode)](https://skillicons.dev)
 
 ### Check out the repos I've worked on:
-* [SpaceCat](https://github.com/angelolab/SpaceCat): (Core Developer) A computational pipeline that automatically extracts a spatial catalog of
-100s of distinct features from single cell data to enable easy downstream quantification. SpaceCat
-features are normalized for comparison and simple integration with any statistical model.
+* [SpaceCat](https://github.com/angelolab/SpaceCat): (Core Developer) A computational pipeline that automatically extracts a spatial catalog of 100s
+of distinct features from single cell data to enable easy downstream quantification. SpaceCat features have been normalized, correlation filtered, and pre-processed for quick integration with any statistical model.
 <p align="center">
   <img width="600" alt="Screenshot 2025-05-22 at 12 24 06 PM" src="https://github.com/user-attachments/assets/57ac107f-4c50-4869-8642-d1d63caf94a6" />
 <p>
 
 * [ark-analysis](https://github.com/angelolab/ark-analysis): (Maintainer) A package for performing spatial analysis on highly multiplexed
-imaging microscopy data. Provides researchers with a powerful suite of tools (via user-friendly jupyter notebooks) to analyze their
-millions of cells automatically and efficiently.
+imaging microscopy data, adapting machine learning techniques for automated biological analysis. Provides researchers with a powerful suite of tools (via user-friendly jupyter notebooks) to analyze their millions of cells automatically and efficiently.
+
 * [toffy](https://github.com/angelolab/toffy) (Maintainer): A package for extracting and preprocessing image data generated from the
 commercial MIBIScope platform. Provides researchers with an easy interface to efficiently perform channel
-compensation, background subtraction, and batch correction without needing any prior coding knowledge.
+compensation, background subtraction, and batch correction without requiring users to have prior coding skills.
 
 ### Research 
 * Breast cancer
